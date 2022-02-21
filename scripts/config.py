@@ -54,24 +54,20 @@ fined_taxonomy = {
     "Memory": ["w/ External Knowledge", "w/o External Knowledge"],
     
     # 7: Setting
-    "Setting": ["Online-learning", "Class-incremental", "Task-incremental"],
+    "Setting": ["Discrete Prompts", "Continuous Prompts", "In-context Learning"],
     
     # 8: Research Question
-    "RQs": {"Few-shot", "Zero-shot", "Imbalanced Data", "Others RQs"},
+    "RQs": {"Few-shot", "Zero-shot", "Retriever", "Attack", "Others RQs"},
     
     # 9: Backbone
     "Backbone": ["BERTs", "Transformers", "Adapter", "RNNs", "CNNs", "GNNs", "Attentions", "Capsule Net",
                  "Probabilistic Graphical Model", "VAEs", "Other Structure"],
     
     # 10: Dataset
-    "Dataset": ["MNIST", "CIFAR-10",
-                "Fashion-MNIST",
-                "CIFAR-100",
-                "Overnight",
-                "NLMapV2",
+    "Dataset": [
                 "Other Dataset"
                 ],
     
     # 11: Metrics
-    "Metrics": ["Accuracy", "FWT", "BWT"],
+    "Metrics": ["Accuracy"],
 }

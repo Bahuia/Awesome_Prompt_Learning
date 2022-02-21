@@ -8,6 +8,7 @@ This page categorizes the literature by the Contribution.
 
 ## Outline 
 - [![](https://img.shields.io/badge/Hyperlink-orange)](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4all/contribution/README.md#hyperlink)
+- [![](https://img.shields.io/badge/Empirical_Study-1-orange)](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4all/contribution/README.md#empirical-study)
 ## Hyperlink 
 - [[Overview]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/README.md) -- [Homepage](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/README.md)
 - [[NLP]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4nlp/./)  [[CV]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4cv/./) -- [Summary](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4all/./)
@@ -23,3 +24,9 @@ This page categorizes the literature by the Contribution.
 - [[NLP]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4nlp/supervision)  [[CV]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4cv/supervision) -- [ Learning Paradigm](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4all/supervision)
 - [[NLP]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4nlp/time)  [[CV]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4cv/time) -- [Published Time](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4all/time)
 - [[NLP]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4nlp/venue)  [[CV]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4cv/venue) -- [Published Venue](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4all/venue)
+
+## Empirical Study
+
+- [![](https://img.shields.io/badge/CoRR-2021-orange)](https://arxiv.org/abs/2109.01247)<a href="https://scholar.google.com.hk/scholar?q=Do+Prompt-Based+Models+Really+Understand+the+Meaning+of+their+Prompts?"><img src="https://img.shields.io/badge/-orange.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Do Prompt-Based Models Really Understand the Meaning of their Prompts?**](https://arxiv.org/abs/2109.01247) , <br> by *Albert Webson and
+Ellie Pavlick* [[bib]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/./bibtex.bib#L30-L48) <br>```attack the existing prompt-based approach
+```</details><details><summary><img src=https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2109-01247```
