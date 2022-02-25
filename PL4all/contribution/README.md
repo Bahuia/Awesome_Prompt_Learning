@@ -8,7 +8,7 @@ This page categorizes the literature by the Contribution.
 
 ## Outline 
 - [![](https://img.shields.io/badge/Hyperlink-orange)](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4all/contribution/README.md#hyperlink)
-- [![](https://img.shields.io/badge/Empirical_Study-1-orange)](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4all/contribution/README.md#empirical-study)
+- [![](https://img.shields.io/badge/Empirical_Study-2-orange)](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4all/contribution/README.md#empirical-study)
 ## Hyperlink 
 - [[Overview]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/README.md) -- [Homepage](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/README.md)
 - [[NLP]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4nlp/./)  [[CV]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4cv/./) -- [Summary](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4all/./)
@@ -28,5 +28,13 @@ This page categorizes the literature by the Contribution.
 ## Empirical Study
 
 - [![](https://img.shields.io/badge/CoRR-2021-orange)](https://arxiv.org/abs/2109.01247)<a href="https://scholar.google.com.hk/scholar?q=Do+Prompt-Based+Models+Really+Understand+the+Meaning+of+their+Prompts?"><img src="https://img.shields.io/badge/-orange.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Do Prompt-Based Models Really Understand the Meaning of their Prompts?**](https://arxiv.org/abs/2109.01247) , <br> by *Albert Webson and
-Ellie Pavlick* [[bib]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/./bibtex.bib#L30-L48) <br>```attack the existing prompt-based approach
+Ellie Pavlick* [[bib]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/./bibtex.bib#L33-L51) <br>```attack the existing prompt-based approach
 ```</details><details><summary><img src=https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2109-01247```
+- [![](https://img.shields.io/badge/CoRR-2021-orange)](https://arxiv.org/abs/2106.13353)<a href="https://scholar.google.com.hk/scholar?q=Cutting+Down+on+Prompts+and+Parameters:+Simple+Few-Shot+Learning+with+Language+Models"><img src="https://img.shields.io/badge/-orange.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Cutting Down on Prompts and Parameters: Simple Few-Shot Learning with
+Language Models**](https://arxiv.org/abs/2106.13353) , <br> by *Robert L. Logan IV and
+Ivana Balazevic and
+Eric Wallace and
+Fabio Petroni and
+Sameer Singh and
+Sebastian Riedel* [[bib]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/./bibtex.bib#L54-L83) <br>```simplifying prompt engineering, achieving simplicity and efficiency
+```</details><details><summary><img src=https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2106-13353```

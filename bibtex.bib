@@ -2,7 +2,7 @@
 % Note: the keywords should be predefined in scripts/bibtext_to_md.py # fined_taxonomy
 % How to build README.md: run python scripts/bibtext_to_md.py
 
-@inproceedings{DBLP:conf/emnlp/ChadaN21,
+@inproceedings{ChadaN21,
   author    = {Rakesh Chada and
                Pradeep Natarajan},
   editor    = {Marie{-}Francine Moens and
@@ -23,9 +23,12 @@
   keywords = {
      Question Answering,
      NLP,
-     Few-shot
+     Few-shot,
+     Null Prompts
   }
 }
+@string(ChadaN21="align fine-tuning with pre-training")
+
 
 @article{abs-2109-01247,
   author    = {Albert Webson and
@@ -48,8 +51,37 @@
 }
 @string(abs-2109-01247="attack the existing prompt-based approach")
 
-
-
+@article{abs-2106-13353,
+  author    = {Robert L. Logan IV and
+               Ivana Balazevic and
+               Eric Wallace and
+               Fabio Petroni and
+               Sameer Singh and
+               Sebastian Riedel},
+  title     = {Cutting Down on Prompts and Parameters: Simple Few-Shot Learning with
+               Language Models},
+  journal   = {CoRR},
+  volume    = {abs/2106.13353},
+  year      = {2021},
+  url       = {https://arxiv.org/abs/2106.13353},
+  eprinttype = {arXiv},
+  eprint    = {2106.13353},
+  timestamp = {Wed, 30 Jun 2021 16:14:10 +0200},
+  biburl    = {https://dblp.org/rec/journals/corr/abs-2106-13353.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org},
+  keywords = {
+     Natural Language Inference,
+     Few-shot,
+     Efficiency,
+     Adapter,
+     BitFit,
+     Calibration,
+     LM Head Tuning,
+     Empirical Study,
+     Attack
+  }
+}
+@string(abs-2106-13353="simplifying prompt engineering, achieving simplicity and efficiency")
 
 
 

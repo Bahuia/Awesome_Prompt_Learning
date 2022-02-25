@@ -9,7 +9,7 @@ This page categorizes the literature by the **Published Venue**.
 ## Outline 
 - [![](https://img.shields.io/badge/Hyperlink-orange)](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4all/./README.md#hyperlink)
 - [![](https://img.shields.io/badge/EMNLP-1-orange)](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4all/./README.md#emnlp)
-- [![](https://img.shields.io/badge/arXiv-1-orange)](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4all/./README.md#arxiv)
+- [![](https://img.shields.io/badge/arXiv-2-orange)](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4all/./README.md#arxiv)
 ## Hyperlink 
 - [[Overview]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/README.md) -- [Homepage](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/README.md)
 - [[NLP]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4nlp/./)  [[CV]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4cv/./) -- [Summary](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4all/./)
@@ -30,9 +30,18 @@ This page categorizes the literature by the **Published Venue**.
 
 - [![](https://img.shields.io/badge/EMNLP-2021-orange)](https://doi.org/10.18653/v1/2021.emnlp-main.491)<a href="https://scholar.google.com.hk/scholar?q=FewshotQA:+A+simple+framework+for+few-shot+learning+of+question+answering+tasks+using+pre-trained+text-to-text+models"><img src="https://img.shields.io/badge/-orange.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**FewshotQA: A simple framework for few-shot learning of question
 answering tasks using pre-trained text-to-text models**](https://doi.org/10.18653/v1/2021.emnlp-main.491) , <br> by *Rakesh Chada and
-Pradeep Natarajan* [[bib]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/./bibtex.bib#L5-L28) <br></details><details><summary><img src=https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```DBLP:conf/emnlp/ChadaN21```
+Pradeep Natarajan* [[bib]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/./bibtex.bib#L5-L29) <br>```align fine-tuning with pre-training
+```</details><details><summary><img src=https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ChadaN21```
 ## arXiv
 
 - [![](https://img.shields.io/badge/CoRR-2021-orange)](https://arxiv.org/abs/2109.01247)<a href="https://scholar.google.com.hk/scholar?q=Do+Prompt-Based+Models+Really+Understand+the+Meaning+of+their+Prompts?"><img src="https://img.shields.io/badge/-orange.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Do Prompt-Based Models Really Understand the Meaning of their Prompts?**](https://arxiv.org/abs/2109.01247) , <br> by *Albert Webson and
-Ellie Pavlick* [[bib]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/./bibtex.bib#L30-L48) <br>```attack the existing prompt-based approach
+Ellie Pavlick* [[bib]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/./bibtex.bib#L33-L51) <br>```attack the existing prompt-based approach
 ```</details><details><summary><img src=https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2109-01247```
+- [![](https://img.shields.io/badge/CoRR-2021-orange)](https://arxiv.org/abs/2106.13353)<a href="https://scholar.google.com.hk/scholar?q=Cutting+Down+on+Prompts+and+Parameters:+Simple+Few-Shot+Learning+with+Language+Models"><img src="https://img.shields.io/badge/-orange.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Cutting Down on Prompts and Parameters: Simple Few-Shot Learning with
+Language Models**](https://arxiv.org/abs/2106.13353) , <br> by *Robert L. Logan IV and
+Ivana Balazevic and
+Eric Wallace and
+Fabio Petroni and
+Sameer Singh and
+Sebastian Riedel* [[bib]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/./bibtex.bib#L54-L83) <br>```simplifying prompt engineering, achieving simplicity and efficiency
+```</details><details><summary><img src=https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2106-13353```

@@ -8,6 +8,10 @@ This page categorizes the literature by the **Backbone Model**.
 
 ## Outline 
 - [![](https://img.shields.io/badge/Hyperlink-orange)](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4all/backbone_model/README.md#hyperlink)
+- [![](https://img.shields.io/badge/Adapter-1-orange)](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4all/backbone_model/README.md#adapter)
+- [![](https://img.shields.io/badge/BitFit-1-orange)](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4all/backbone_model/README.md#bitfit)
+- [![](https://img.shields.io/badge/LM_Head_Tuning-1-orange)](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4all/backbone_model/README.md#lm-head-tuning)
+- [![](https://img.shields.io/badge/Calibration-1-orange)](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4all/backbone_model/README.md#calibration)
 ## Hyperlink 
 - [[Overview]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/README.md) -- [Homepage](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/README.md)
 - [[NLP]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4nlp/./)  [[CV]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4cv/./) -- [Summary](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4all/./)
@@ -23,3 +27,44 @@ This page categorizes the literature by the **Backbone Model**.
 - [[NLP]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4nlp/supervision)  [[CV]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4cv/supervision) -- [ Learning Paradigm](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4all/supervision)
 - [[NLP]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4nlp/time)  [[CV]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4cv/time) -- [Published Time](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4all/time)
 - [[NLP]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4nlp/venue)  [[CV]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4cv/venue) -- [Published Venue](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4all/venue)
+
+## Adapter
+
+- [![](https://img.shields.io/badge/CoRR-2021-orange)](https://arxiv.org/abs/2106.13353)<a href="https://scholar.google.com.hk/scholar?q=Cutting+Down+on+Prompts+and+Parameters:+Simple+Few-Shot+Learning+with+Language+Models"><img src="https://img.shields.io/badge/-orange.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Cutting Down on Prompts and Parameters: Simple Few-Shot Learning with
+Language Models**](https://arxiv.org/abs/2106.13353) , <br> by *Robert L. Logan IV and
+Ivana Balazevic and
+Eric Wallace and
+Fabio Petroni and
+Sameer Singh and
+Sebastian Riedel* [[bib]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/./bibtex.bib#L54-L83) <br>```simplifying prompt engineering, achieving simplicity and efficiency
+```</details><details><summary><img src=https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2106-13353```
+## BitFit
+
+- [![](https://img.shields.io/badge/CoRR-2021-orange)](https://arxiv.org/abs/2106.13353)<a href="https://scholar.google.com.hk/scholar?q=Cutting+Down+on+Prompts+and+Parameters:+Simple+Few-Shot+Learning+with+Language+Models"><img src="https://img.shields.io/badge/-orange.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Cutting Down on Prompts and Parameters: Simple Few-Shot Learning with
+Language Models**](https://arxiv.org/abs/2106.13353) , <br> by *Robert L. Logan IV and
+Ivana Balazevic and
+Eric Wallace and
+Fabio Petroni and
+Sameer Singh and
+Sebastian Riedel* [[bib]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/./bibtex.bib#L54-L83) <br>```simplifying prompt engineering, achieving simplicity and efficiency
+```</details><details><summary><img src=https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2106-13353```
+## LM Head Tuning
+
+- [![](https://img.shields.io/badge/CoRR-2021-orange)](https://arxiv.org/abs/2106.13353)<a href="https://scholar.google.com.hk/scholar?q=Cutting+Down+on+Prompts+and+Parameters:+Simple+Few-Shot+Learning+with+Language+Models"><img src="https://img.shields.io/badge/-orange.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Cutting Down on Prompts and Parameters: Simple Few-Shot Learning with
+Language Models**](https://arxiv.org/abs/2106.13353) , <br> by *Robert L. Logan IV and
+Ivana Balazevic and
+Eric Wallace and
+Fabio Petroni and
+Sameer Singh and
+Sebastian Riedel* [[bib]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/./bibtex.bib#L54-L83) <br>```simplifying prompt engineering, achieving simplicity and efficiency
+```</details><details><summary><img src=https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2106-13353```
+## Calibration
+
+- [![](https://img.shields.io/badge/CoRR-2021-orange)](https://arxiv.org/abs/2106.13353)<a href="https://scholar.google.com.hk/scholar?q=Cutting+Down+on+Prompts+and+Parameters:+Simple+Few-Shot+Learning+with+Language+Models"><img src="https://img.shields.io/badge/-orange.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**Cutting Down on Prompts and Parameters: Simple Few-Shot Learning with
+Language Models**](https://arxiv.org/abs/2106.13353) , <br> by *Robert L. Logan IV and
+Ivana Balazevic and
+Eric Wallace and
+Fabio Petroni and
+Sameer Singh and
+Sebastian Riedel* [[bib]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/./bibtex.bib#L54-L83) <br>```simplifying prompt engineering, achieving simplicity and efficiency
+```</details><details><summary><img src=https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```abs-2106-13353```

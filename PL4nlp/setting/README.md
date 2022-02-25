@@ -8,6 +8,7 @@ This page categorizes the literature by the **Few-shot Learning Setting**, filte
 
 ## Outline 
 - [![](https://img.shields.io/badge/Hyperlink-orange)](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4nlp/setting/README.md#hyperlink)
+- [![](https://img.shields.io/badge/Null_Prompts-1-orange)](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4nlp/setting/README.md#null-prompts)
 ## Hyperlink 
 - [[Overview]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/README.md) -- [Homepage](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/README.md)
 - [[NLP]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4nlp/./)  [[CV]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4cv/./) -- [Summary](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4all/./)
@@ -23,3 +24,10 @@ This page categorizes the literature by the **Few-shot Learning Setting**, filte
 - [[NLP]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4nlp/supervision)  [[CV]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4cv/supervision) -- [ Learning Paradigm](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4all/supervision)
 - [[NLP]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4nlp/time)  [[CV]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4cv/time) -- [Published Time](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4all/time)
 - [[NLP]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4nlp/venue)  [[CV]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4cv/venue) -- [Published Venue](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/PL4all/venue)
+
+## Null Prompts
+
+- [![](https://img.shields.io/badge/EMNLP-2021-orange)](https://doi.org/10.18653/v1/2021.emnlp-main.491)<a href="https://scholar.google.com.hk/scholar?q=FewshotQA:+A+simple+framework+for+few-shot+learning+of+question+answering+tasks+using+pre-trained+text-to-text+models"><img src="https://img.shields.io/badge/-orange.svg?&logo=google-scholar&logoColor=white" height="18" align="bottom"></a> [**FewshotQA: A simple framework for few-shot learning of question
+answering tasks using pre-trained text-to-text models**](https://doi.org/10.18653/v1/2021.emnlp-main.491) , <br> by *Rakesh Chada and
+Pradeep Natarajan* [[bib]](https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/./bibtex.bib#L5-L29) <br>```align fine-tuning with pre-training
+```</details><details><summary><img src=https://github.com/bahuia/Awesome_Prompt_Learning/blob/master/scripts/svg/copy_icon.png height="20" align="bottom"></summary><pre>```ChadaN21```

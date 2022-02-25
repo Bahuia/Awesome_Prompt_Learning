@@ -46,7 +46,7 @@ fined_taxonomy = {
                     "Other Learning Paradigm"],
     
     # 4: Application
-    "Application": ["Image Classification", "Semantic Parsing", "Question Answering"],
+    "Application": ["Image Classification", "Semantic Parsing", "Question Answering", "Natural Language Inference"],
     
     # 5: Approach
     "Approach": ["Rehearsal", "Regularization", "Dynamic Architecture", "Fast-slow"],
@@ -54,14 +54,13 @@ fined_taxonomy = {
     "Memory": ["w/ External Knowledge", "w/o External Knowledge"],
     
     # 7: Setting
-    "Setting": ["Discrete Prompts", "Continuous Prompts", "In-context Learning"],
+    "Setting": ["Discrete Prompts", "Manual Prompts", "AutoPrompts", "Prompt-Tuning", "Continuous Prompts", "In-context Learning", "Null Prompts"],
     
     # 8: Research Question
-    "RQs": {"Few-shot", "Zero-shot", "Retriever", "Attack", "Others RQs"},
+    "RQs": {"Few-shot", "Zero-shot", "Retriever", "Attack", "Efficiency", "Others RQs"},
     
     # 9: Backbone
-    "Backbone": ["BERTs", "Transformers", "Adapter", "RNNs", "CNNs", "GNNs", "Attentions", "Capsule Net",
-                 "Probabilistic Graphical Model", "VAEs", "Other Structure"],
+    "Backbone": ["Adapter", "BitFit", "LM Head Tuning", "Calibration"],
     
     # 10: Dataset
     "Dataset": [
